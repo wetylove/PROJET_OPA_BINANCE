@@ -3,5 +3,9 @@
   <component name="Black">
     <option name="sdkName" value="Python 3.11 (PROJET_OPA_BINANCE)" />
   </component>
+<<<<<<< HEAD
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.11" project-jdk-type="Python SDK" />
+=======
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.11 (PROJET_OPA_BINANCE)" project-jdk-type="Python SDK" />
+>>>>>>> 6f2bf520f1e8d95e5e4897edc491be08736203c6
 </project>
