@@ -5,7 +5,7 @@ import time
 
 def get_historical_data(symbol, start_time):
     """
-    Fonction pour récupérer les données historiques d'un symbole pour les 3 dernières heures.
+    Fonction pour récupérer les données historiques du BTC-USDT pour les 3 dernières heures.
 
     Args:
         symbol (str): Symbole du marché (par exemple, "BTCUSDT").
