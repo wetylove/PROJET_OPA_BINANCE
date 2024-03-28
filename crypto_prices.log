@@ -1,0 +1,112 @@
+2024-03-26 21:26:26,211 - INFO - Tables créées avec succès.
+2024-03-26 21:26:30,887 - INFO - Tables créées avec succès.
+2024-03-26 21:31:33,699 - ERROR - Erreur lors de l'insertion des données pour le symbole BTCUSDT: 1054 (42S22): Unknown column 'id_trade' in 'field list'
+2024-03-26 21:31:35,861 - ERROR - Erreur lors de l'insertion des données pour le symbole ETHUSDT: 1054 (42S22): Unknown column 'id_trade' in 'field list'
+2024-03-26 21:31:38,160 - ERROR - Erreur lors de l'insertion des données pour le symbole BNBUSDT: 1054 (42S22): Unknown column 'id_trade' in 'field list'
+2024-03-26 21:31:40,225 - ERROR - Erreur lors de l'insertion des données pour le symbole ADAUSDT: 1054 (42S22): Unknown column 'id_trade' in 'field list'
+2024-03-26 21:31:42,368 - ERROR - Erreur lors de l'insertion des données pour le symbole XRPUSDT: 1054 (42S22): Unknown column 'id_trade' in 'field list'
+2024-03-26 21:31:44,872 - ERROR - Erreur lors de l'insertion des données pour le symbole DOTUSDT: 1054 (42S22): Unknown column 'id_trade' in 'field list'
+2024-03-26 21:31:47,430 - ERROR - Erreur lors de l'insertion des données pour le symbole SOLUSDT: 1054 (42S22): Unknown column 'id_trade' in 'field list'
+2024-03-26 21:31:49,946 - ERROR - Erreur lors de l'insertion des données pour le symbole DOGEUSDT: 1054 (42S22): Unknown column 'id_trade' in 'field list'
+2024-03-26 21:31:52,053 - ERROR - Erreur lors de l'insertion des données pour le symbole LTCUSDT: 1054 (42S22): Unknown column 'id_trade' in 'field list'
+2024-03-26 21:31:54,349 - ERROR - Erreur lors de l'insertion des données pour le symbole UNIUSDT: 1054 (42S22): Unknown column 'id_trade' in 'field list'
+2024-03-26 21:36:56,008 - ERROR - Erreur lors de l'insertion des données pour le symbole BTCUSDT: 1054 (42S22): Unknown column 'id_trade' in 'field list'
+2024-03-26 21:36:57,319 - ERROR - Erreur lors de l'insertion des données pour le symbole ETHUSDT: 1054 (42S22): Unknown column 'id_trade' in 'field list'
+2024-03-26 21:36:58,633 - ERROR - Erreur lors de l'insertion des données pour le symbole BNBUSDT: 1054 (42S22): Unknown column 'id_trade' in 'field list'
+2024-03-26 21:36:59,938 - ERROR - Erreur lors de l'insertion des données pour le symbole ADAUSDT: 1054 (42S22): Unknown column 'id_trade' in 'field list'
+2024-03-26 21:37:01,249 - ERROR - Erreur lors de l'insertion des données pour le symbole XRPUSDT: 1054 (42S22): Unknown column 'id_trade' in 'field list'
+2024-03-26 21:37:02,566 - ERROR - Erreur lors de l'insertion des données pour le symbole DOTUSDT: 1054 (42S22): Unknown column 'id_trade' in 'field list'
+2024-03-26 21:37:03,874 - ERROR - Erreur lors de l'insertion des données pour le symbole SOLUSDT: 1054 (42S22): Unknown column 'id_trade' in 'field list'
+2024-03-26 21:37:05,188 - ERROR - Erreur lors de l'insertion des données pour le symbole DOGEUSDT: 1054 (42S22): Unknown column 'id_trade' in 'field list'
+2024-03-26 21:37:06,331 - ERROR - Erreur lors de l'insertion des données pour le symbole LTCUSDT: 1054 (42S22): Unknown column 'id_trade' in 'field list'
+2024-03-26 21:37:07,662 - ERROR - Erreur lors de l'insertion des données pour le symbole UNIUSDT: 1054 (42S22): Unknown column 'id_trade' in 'field list'
+2024-03-26 21:42:10,309 - ERROR - Erreur lors de l'insertion des données pour le symbole BTCUSDT: 1054 (42S22): Unknown column 'id_trade' in 'field list'
+2024-03-26 21:42:12,810 - ERROR - Erreur lors de l'insertion des données pour le symbole ETHUSDT: 1054 (42S22): Unknown column 'id_trade' in 'field list'
+2024-03-26 21:42:15,213 - ERROR - Erreur lors de l'insertion des données pour le symbole BNBUSDT: 1054 (42S22): Unknown column 'id_trade' in 'field list'
+2024-03-26 21:42:17,709 - ERROR - Erreur lors de l'insertion des données pour le symbole ADAUSDT: 1054 (42S22): Unknown column 'id_trade' in 'field list'
+2024-03-26 21:42:19,996 - ERROR - Erreur lors de l'insertion des données pour le symbole XRPUSDT: 1054 (42S22): Unknown column 'id_trade' in 'field list'
+2024-03-26 21:42:22,283 - ERROR - Erreur lors de l'insertion des données pour le symbole DOTUSDT: 1054 (42S22): Unknown column 'id_trade' in 'field list'
+2024-03-26 21:42:24,493 - ERROR - Erreur lors de l'insertion des données pour le symbole SOLUSDT: 1054 (42S22): Unknown column 'id_trade' in 'field list'
+2024-03-26 21:42:26,759 - ERROR - Erreur lors de l'insertion des données pour le symbole DOGEUSDT: 1054 (42S22): Unknown column 'id_trade' in 'field list'
+2024-03-26 21:42:29,025 - ERROR - Erreur lors de l'insertion des données pour le symbole LTCUSDT: 1054 (42S22): Unknown column 'id_trade' in 'field list'
+2024-03-26 21:42:31,778 - ERROR - Erreur lors de l'insertion des données pour le symbole UNIUSDT: 1054 (42S22): Unknown column 'id_trade' in 'field list'
+2024-03-26 21:43:24,875 - INFO - Tables créées avec succès.
+2024-03-26 21:43:36,750 - INFO - Tables créées avec succès.
+2024-03-26 21:48:38,442 - ERROR - Requête API a échoué avec le code 400: Not all sent parameters were read; read '1' parameter(s) but was sent '2'.
+2024-03-26 21:48:38,446 - ERROR - Erreur lors de l'insertion des données pour le symbole BTCUSDT: Requête API a échoué avec le code 400: Not all sent parameters were read; read '1' parameter(s) but was sent '2'.
+2024-03-26 21:48:39,695 - ERROR - Requête API a échoué avec le code 400: Not all sent parameters were read; read '1' parameter(s) but was sent '2'.
+2024-03-26 21:48:39,695 - ERROR - Erreur lors de l'insertion des données pour le symbole ETHUSDT: Requête API a échoué avec le code 400: Not all sent parameters were read; read '1' parameter(s) but was sent '2'.
+2024-03-26 21:48:40,868 - ERROR - Requête API a échoué avec le code 400: Not all sent parameters were read; read '1' parameter(s) but was sent '2'.
+2024-03-26 21:48:40,868 - ERROR - Erreur lors de l'insertion des données pour le symbole BNBUSDT: Requête API a échoué avec le code 400: Not all sent parameters were read; read '1' parameter(s) but was sent '2'.
+2024-03-26 21:48:41,965 - ERROR - Requête API a échoué avec le code 400: Not all sent parameters were read; read '1' parameter(s) but was sent '2'.
+2024-03-26 21:48:41,965 - ERROR - Erreur lors de l'insertion des données pour le symbole ADAUSDT: Requête API a échoué avec le code 400: Not all sent parameters were read; read '1' parameter(s) but was sent '2'.
+2024-03-26 21:48:43,152 - ERROR - Requête API a échoué avec le code 400: Not all sent parameters were read; read '1' parameter(s) but was sent '2'.
+2024-03-26 21:48:43,152 - ERROR - Erreur lors de l'insertion des données pour le symbole XRPUSDT: Requête API a échoué avec le code 400: Not all sent parameters were read; read '1' parameter(s) but was sent '2'.
+2024-03-26 21:48:44,243 - ERROR - Requête API a échoué avec le code 400: Not all sent parameters were read; read '1' parameter(s) but was sent '2'.
+2024-03-26 21:48:44,243 - ERROR - Erreur lors de l'insertion des données pour le symbole DOTUSDT: Requête API a échoué avec le code 400: Not all sent parameters were read; read '1' parameter(s) but was sent '2'.
+2024-03-26 21:48:45,340 - ERROR - Requête API a échoué avec le code 400: Not all sent parameters were read; read '1' parameter(s) but was sent '2'.
+2024-03-26 21:48:45,340 - ERROR - Erreur lors de l'insertion des données pour le symbole SOLUSDT: Requête API a échoué avec le code 400: Not all sent parameters were read; read '1' parameter(s) but was sent '2'.
+2024-03-26 21:48:46,509 - ERROR - Requête API a échoué avec le code 400: Not all sent parameters were read; read '1' parameter(s) but was sent '2'.
+2024-03-26 21:48:46,509 - ERROR - Erreur lors de l'insertion des données pour le symbole DOGEUSDT: Requête API a échoué avec le code 400: Not all sent parameters were read; read '1' parameter(s) but was sent '2'.
+2024-03-26 21:48:47,458 - ERROR - Requête API a échoué avec le code 400: Not all sent parameters were read; read '1' parameter(s) but was sent '2'.
+2024-03-26 21:48:47,458 - ERROR - Erreur lors de l'insertion des données pour le symbole LTCUSDT: Requête API a échoué avec le code 400: Not all sent parameters were read; read '1' parameter(s) but was sent '2'.
+2024-03-26 21:48:48,471 - ERROR - Requête API a échoué avec le code 400: Not all sent parameters were read; read '1' parameter(s) but was sent '2'.
+2024-03-26 21:48:48,471 - ERROR - Erreur lors de l'insertion des données pour le symbole UNIUSDT: Requête API a échoué avec le code 400: Not all sent parameters were read; read '1' parameter(s) but was sent '2'.
+2024-03-26 21:51:30,916 - INFO - Table traders_data créée avec succès.
+2024-03-26 21:51:49,015 - INFO - Table traders_data créée avec succès.
+2024-03-26 21:56:50,904 - ERROR - Erreur lors de l'insertion des données pour le symbole BTCUSDT: 1054 (42S22): Unknown column 'id_trade' in 'field list'
+2024-03-26 21:56:52,187 - ERROR - Erreur lors de l'insertion des données pour le symbole ETHUSDT: 1054 (42S22): Unknown column 'id_trade' in 'field list'
+2024-03-26 21:56:53,540 - ERROR - Erreur lors de l'insertion des données pour le symbole BNBUSDT: 1054 (42S22): Unknown column 'id_trade' in 'field list'
+2024-03-26 21:56:54,653 - ERROR - Erreur lors de l'insertion des données pour le symbole ADAUSDT: 1054 (42S22): Unknown column 'id_trade' in 'field list'
+2024-03-26 21:56:56,120 - ERROR - Erreur lors de l'insertion des données pour le symbole XRPUSDT: 1054 (42S22): Unknown column 'id_trade' in 'field list'
+2024-03-26 21:56:57,556 - ERROR - Erreur lors de l'insertion des données pour le symbole DOTUSDT: 1054 (42S22): Unknown column 'id_trade' in 'field list'
+2024-03-26 21:56:58,959 - ERROR - Erreur lors de l'insertion des données pour le symbole SOLUSDT: 1054 (42S22): Unknown column 'id_trade' in 'field list'
+2024-03-26 21:57:00,451 - ERROR - Erreur lors de l'insertion des données pour le symbole DOGEUSDT: 1054 (42S22): Unknown column 'id_trade' in 'field list'
+2024-03-26 21:57:01,719 - ERROR - Erreur lors de l'insertion des données pour le symbole LTCUSDT: 1054 (42S22): Unknown column 'id_trade' in 'field list'
+2024-03-26 21:57:03,407 - ERROR - Erreur lors de l'insertion des données pour le symbole UNIUSDT: 1054 (42S22): Unknown column 'id_trade' in 'field list'
+2024-03-26 22:02:04,955 - ERROR - Erreur lors de l'insertion des données pour le symbole BTCUSDT: 1054 (42S22): Unknown column 'id_trade' in 'field list'
+2024-03-26 22:02:06,420 - ERROR - Erreur lors de l'insertion des données pour le symbole ETHUSDT: 1054 (42S22): Unknown column 'id_trade' in 'field list'
+2024-03-26 22:02:07,657 - ERROR - Erreur lors de l'insertion des données pour le symbole BNBUSDT: 1054 (42S22): Unknown column 'id_trade' in 'field list'
+2024-03-26 22:02:08,882 - ERROR - Erreur lors de l'insertion des données pour le symbole ADAUSDT: 1054 (42S22): Unknown column 'id_trade' in 'field list'
+2024-03-26 22:02:10,148 - ERROR - Erreur lors de l'insertion des données pour le symbole XRPUSDT: 1054 (42S22): Unknown column 'id_trade' in 'field list'
+2024-03-26 22:02:11,514 - ERROR - Erreur lors de l'insertion des données pour le symbole DOTUSDT: 1054 (42S22): Unknown column 'id_trade' in 'field list'
+2024-03-26 22:02:12,851 - ERROR - Erreur lors de l'insertion des données pour le symbole SOLUSDT: 1054 (42S22): Unknown column 'id_trade' in 'field list'
+2024-03-26 22:02:14,217 - ERROR - Erreur lors de l'insertion des données pour le symbole DOGEUSDT: 1054 (42S22): Unknown column 'id_trade' in 'field list'
+2024-03-26 22:02:15,560 - ERROR - Erreur lors de l'insertion des données pour le symbole LTCUSDT: 1054 (42S22): Unknown column 'id_trade' in 'field list'
+2024-03-26 22:02:16,926 - ERROR - Erreur lors de l'insertion des données pour le symbole UNIUSDT: 1054 (42S22): Unknown column 'id_trade' in 'field list'
+2024-03-26 22:07:18,704 - ERROR - Erreur lors de l'insertion des données pour le symbole BTCUSDT: 1054 (42S22): Unknown column 'id_trade' in 'field list'
+2024-03-26 22:07:20,106 - ERROR - Erreur lors de l'insertion des données pour le symbole ETHUSDT: 1054 (42S22): Unknown column 'id_trade' in 'field list'
+2024-03-26 22:07:21,498 - ERROR - Erreur lors de l'insertion des données pour le symbole BNBUSDT: 1054 (42S22): Unknown column 'id_trade' in 'field list'
+2024-03-26 22:07:22,840 - ERROR - Erreur lors de l'insertion des données pour le symbole ADAUSDT: 1054 (42S22): Unknown column 'id_trade' in 'field list'
+2024-03-26 22:07:23,832 - ERROR - Erreur lors de l'insertion des données pour le symbole XRPUSDT: 1054 (42S22): Unknown column 'id_trade' in 'field list'
+2024-03-26 22:07:24,937 - ERROR - Erreur lors de l'insertion des données pour le symbole DOTUSDT: 1054 (42S22): Unknown column 'id_trade' in 'field list'
+2024-03-26 22:07:26,434 - ERROR - Erreur lors de l'insertion des données pour le symbole SOLUSDT: 1054 (42S22): Unknown column 'id_trade' in 'field list'
+2024-03-26 22:07:27,955 - ERROR - Erreur lors de l'insertion des données pour le symbole DOGEUSDT: 1054 (42S22): Unknown column 'id_trade' in 'field list'
+2024-03-26 22:07:29,187 - ERROR - Erreur lors de l'insertion des données pour le symbole LTCUSDT: 1054 (42S22): Unknown column 'id_trade' in 'field list'
+2024-03-26 22:07:30,428 - ERROR - Erreur lors de l'insertion des données pour le symbole UNIUSDT: 1054 (42S22): Unknown column 'id_trade' in 'field list'
+2024-03-26 22:12:31,956 - ERROR - Erreur lors de l'insertion des données pour le symbole BTCUSDT: 1054 (42S22): Unknown column 'id_trade' in 'field list'
+2024-03-26 22:12:33,220 - ERROR - Erreur lors de l'insertion des données pour le symbole ETHUSDT: 1054 (42S22): Unknown column 'id_trade' in 'field list'
+2024-03-26 22:12:34,995 - ERROR - Erreur lors de l'insertion des données pour le symbole BNBUSDT: 1054 (42S22): Unknown column 'id_trade' in 'field list'
+2024-03-26 22:12:36,684 - ERROR - Erreur lors de l'insertion des données pour le symbole ADAUSDT: 1054 (42S22): Unknown column 'id_trade' in 'field list'
+2024-03-26 22:12:37,874 - ERROR - Erreur lors de l'insertion des données pour le symbole XRPUSDT: 1054 (42S22): Unknown column 'id_trade' in 'field list'
+2024-03-26 22:12:39,024 - ERROR - Erreur lors de l'insertion des données pour le symbole DOTUSDT: 1054 (42S22): Unknown column 'id_trade' in 'field list'
+2024-03-26 22:12:40,622 - ERROR - Erreur lors de l'insertion des données pour le symbole SOLUSDT: 1054 (42S22): Unknown column 'id_trade' in 'field list'
+2024-03-26 22:12:42,266 - ERROR - Erreur lors de l'insertion des données pour le symbole DOGEUSDT: 1054 (42S22): Unknown column 'id_trade' in 'field list'
+2024-03-26 22:12:43,648 - ERROR - Erreur lors de l'insertion des données pour le symbole LTCUSDT: 1054 (42S22): Unknown column 'id_trade' in 'field list'
+2024-03-26 22:12:44,813 - ERROR - Erreur lors de l'insertion des données pour le symbole UNIUSDT: 1054 (42S22): Unknown column 'id_trade' in 'field list'
+2024-03-27 22:17:22,628 - ERROR - Erreur lors de l'insertion des données pour le symbole XRPUSDT: ('Connection aborted.', ConnectionAbortedError(10053, 'Une connexion établie a été abandonnée par un logiciel de votre ordinateur hôte', None, 10053, None))
+2024-03-27 22:17:22,644 - ERROR - Erreur lors de l'insertion des données pour le symbole DOTUSDT: HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ticker/price?symbol=DOTUSDT (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001B7D8624950>: Failed to establish a new connection: [WinError 10051] Une opération a été tentée sur un réseau impossible à atteindre'))
+2024-03-27 22:17:22,644 - ERROR - Erreur lors de l'insertion des données pour le symbole SOLUSDT: HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ticker/price?symbol=SOLUSDT (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001B7D8625ED0>: Failed to establish a new connection: [WinError 10051] Une opération a été tentée sur un réseau impossible à atteindre'))
+2024-03-27 22:17:22,644 - ERROR - Erreur lors de l'insertion des données pour le symbole DOGEUSDT: HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ticker/price?symbol=DOGEUSDT (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001B7D861F310>: Failed to establish a new connection: [WinError 10051] Une opération a été tentée sur un réseau impossible à atteindre'))
+2024-03-27 22:17:22,660 - ERROR - Erreur lors de l'insertion des données pour le symbole LTCUSDT: HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ticker/price?symbol=LTCUSDT (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001B7D85C0110>: Failed to establish a new connection: [WinError 10051] Une opération a été tentée sur un réseau impossible à atteindre'))
+2024-03-27 22:17:22,660 - ERROR - Erreur lors de l'insertion des données pour le symbole UNIUSDT: HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ticker/price?symbol=UNIUSDT (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001B7D8625A90>: Failed to establish a new connection: [WinError 10051] Une opération a été tentée sur un réseau impossible à atteindre'))
+2024-03-28 10:46:35,997 - ERROR - Erreur lors de l'insertion des données pour le symbole BTCUSDT: HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ticker/price?symbol=BTCUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001B7D8627850>: Failed to resolve 'api.binance.us' ([Errno 11001] getaddrinfo failed)"))
+2024-03-28 10:46:35,997 - ERROR - Erreur lors de l'insertion des données pour le symbole ETHUSDT: HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ticker/price?symbol=ETHUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001B7D863D590>: Failed to resolve 'api.binance.us' ([Errno 11001] getaddrinfo failed)"))
+2024-03-28 10:46:36,048 - ERROR - Erreur lors de l'insertion des données pour le symbole BNBUSDT: HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ticker/price?symbol=BNBUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001B7D863F450>: Failed to resolve 'api.binance.us' ([Errno 11001] getaddrinfo failed)"))
+2024-03-28 10:46:36,060 - ERROR - Erreur lors de l'insertion des données pour le symbole ADAUSDT: HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ticker/price?symbol=ADAUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001B7D863EF90>: Failed to resolve 'api.binance.us' ([Errno 11001] getaddrinfo failed)"))
+2024-03-28 10:46:36,060 - ERROR - Erreur lors de l'insertion des données pour le symbole XRPUSDT: HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ticker/price?symbol=XRPUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001B7D863C510>: Failed to resolve 'api.binance.us' ([Errno 11001] getaddrinfo failed)"))
+2024-03-28 10:46:36,060 - ERROR - Erreur lors de l'insertion des données pour le symbole DOTUSDT: HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ticker/price?symbol=DOTUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001B7D7AB7F50>: Failed to resolve 'api.binance.us' ([Errno 11001] getaddrinfo failed)"))
+2024-03-28 10:46:36,060 - ERROR - Erreur lors de l'insertion des données pour le symbole SOLUSDT: HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ticker/price?symbol=SOLUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001B7D8624250>: Failed to resolve 'api.binance.us' ([Errno 11001] getaddrinfo failed)"))
+2024-03-28 10:46:36,060 - ERROR - Erreur lors de l'insertion des données pour le symbole DOGEUSDT: HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ticker/price?symbol=DOGEUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001B7D8624490>: Failed to resolve 'api.binance.us' ([Errno 11001] getaddrinfo failed)"))
+2024-03-28 10:46:36,075 - ERROR - Erreur lors de l'insertion des données pour le symbole LTCUSDT: HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ticker/price?symbol=LTCUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001B7D861DD50>: Failed to resolve 'api.binance.us' ([Errno 11001] getaddrinfo failed)"))
+2024-03-28 10:46:36,075 - ERROR - Erreur lors de l'insertion des données pour le symbole UNIUSDT: HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ticker/price?symbol=UNIUSDT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001B7D8108BD0>: Failed to resolve 'api.binance.us' ([Errno 11001] getaddrinfo failed)"))
